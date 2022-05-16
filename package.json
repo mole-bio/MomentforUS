@@ -1,0 +1,30 @@
+{
+  "name": "m4us",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "author": "swoosh",
+  "license": "ISC",
+  "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "antd": "^4.19.5",
+    "next": "^9.5.5",
+    "next-images": "^1.8.4",
+    "next-redux-wrapper": "^6.0.2",
+    "prop-types": "^15.8.1",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-redux": "^8.0.1",
+    "redux": "^4.2.0",
+    "redux-devtools-extension": "^2.13.9",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "eslint": "^8.13.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-react-hooks": "^4.4.0"
+  }
+}

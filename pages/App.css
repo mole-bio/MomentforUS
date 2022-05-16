@@ -1,0 +1,6 @@
+.background {
+  background-image: url(../main_web.png);
+  background-size: cover;
+  color: aliceblue;
+  height: 50vmin;
+}
